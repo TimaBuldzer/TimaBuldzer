@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=TimaBuldzer&style=flat-square&color=blue" alt=""/>
   <h1>
-    Welcome to my profile!
+    Welcome to my github :)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am passionate, ambitious middle backend developer with 2.5 years of experience. So far, I have experience working with
 Python, Django, DRF, Pytest, Unittest, Javascript and Vuejs. I use SOLID, KISS, DRY and TDD principles.
