@@ -27,9 +27,7 @@ Python, Django, DRF, Pytest, Unittest, Javascript and Vuejs. I use SOLID, KISS, 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech books, watch videos to further my current skills and learn some new stuff.
 
 - :mailbox:How to reach
   me: [![Linkedin Badge](https://img.shields.io/badge/-Timur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timur-masharipov-20b7a1223/)
@@ -43,6 +41,7 @@ Python, Django, DRF, Pytest, Unittest, Javascript and Vuejs. I use SOLID, KISS, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg"  title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
